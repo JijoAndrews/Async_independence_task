@@ -1,0 +1,17 @@
+
+body
+{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    color: rgb(255, 255, 255);
+    margin: 1%;
+    padding: 20.5%;
+    font-size: 100px;
+    text-align: center;
+}
+
+
